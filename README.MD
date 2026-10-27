@@ -6,8 +6,9 @@
     G0bD1gZ1n@
 
 ## ACCESO FILEZILLA FTP SIMGA
-    Simga
-    Zin@_T1_S1mg@
+    servidor: 201.122.44.56
+    Usuario: Simga
+    Contraseña: Zin@_T1_S1mg@
 
 ## ACCESO A GESTOR BASE DE DATOS
     user: sa
