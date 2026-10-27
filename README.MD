@@ -15,3 +15,5 @@
     http://201.122.44.56/phpmyadmin/index.php    
 ## LINK INTRANET LOGIN
     http://201.122.44.56/Intranet-V2/index.php
+    user: 000001
+    password: 000001
